@@ -9,16 +9,16 @@ import customizationImg from '../assets/images/customization.png'
 
 const servicesData = [
     {   imgUrl : weatherImg,
-        title : "Calculate Weather",
-        desc : "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+        title : "Every Weather Condition",
+        desc : "Experience the beauty of nature no matter the season! Whether it's a sunny day, a refreshing rain, or a magical snowfall, we ensure a safe, comfortable, and exciting adventure with the right gear and expert planning.",
     },
     {   imgUrl : guideImg,
-        title : "Best Tour Guide",
-        desc : "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+        title : " With Best Tour Guide",
+        desc : "Our professional and passionate tour guides bring each destination to life with their deep knowledge, engaging storytelling, and personalized attention. From historical insights to hidden gems, they make every journey truly special.",
     },
     {   imgUrl : customizationImg,
-        title : "Customization",
-        desc : "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+        title : "And Unforgottable Adventure",
+        desc : "Get ready for an adventure that stays with you forever! We craft unique, thrilling, and immersive experiences that go beyond the ordinary—whether it’s breathtaking landscapes, cultural encounters, or adrenaline-filled activities.",
     }
 ]
 

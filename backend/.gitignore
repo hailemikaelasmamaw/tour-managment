@@ -1,0 +1,42 @@
+# Node.js dependencies
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Build output
+/build
+/dist
+
+# React specific
+/.env
+/.env.local
+/.env.development.local
+/.env.test.local
+/.env.production.local
+/public/static/
+
+# logs
+logs
+*.log
+npm-debug.log*
+
+# Operating System files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# Frontend specific
+frontend/node_modules/
+frontend/build/
+frontend/.env*
+frontend/.cache/
+
+# Backend specific
+backend/node_modules/
+backend/.env*
+backend/logs/
